@@ -12,3 +12,4 @@ TimeLine
 .from('.title', { autoAlpha: 0, duration: 1, y: -50})
 .from('.tagline', { autoAlpha: 0, duration: 1, y: -50},)  
 .from('p', { autoAlpha: 0, duration: 1, y: -50},"<")
+.from('.beer', { autoAlpha: 0, duration: 1, y: -50})
